@@ -1,0 +1,2 @@
+# Ocaml-Project
+ This project will repeat the Mini Basic interpreter, except this time the program will be written in Ocaml but with Mini Basic programs untranslated from the original. See the score directory for sample input files. Output should be the same as for the Scheme version of the program, except for minor variations in output due to differ- ences between the Scheme and Ocaml languages. Any results which would produce a complex value in Scheme should produce nan in this project.
